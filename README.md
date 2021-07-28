@@ -1,1 +1,1 @@
-# arcrobotics
+The official website of ARC | ROBOTICS, official robotics club of IIIT Kota.
